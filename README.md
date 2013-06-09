@@ -2,6 +2,8 @@
 
 ## A plugin for recording/exporting the output of Web Audio API nodes
 
+## This fork updates the example and adds a sample Sinatra app for uploading the WAV and saving it.
+
 ### Syntax
 #### Constructor
     var rec = new Recorder(source [, config])
